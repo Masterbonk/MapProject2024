@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-03-12T10:58:55Z"/>
+
+  <bounds minlat="55.0702800" minlon="14.7693300" maxlat="55.0714700" maxlon="14.7703300"/>
+
+  <node id="0000000001" lat="55.0700000" lon="14.7700000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000002" lat="55.0700000" lon="14.7710000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000003" lat="55.0710000" lon="14.7710000" version="1" timestamp="2012-01-20T16:03:34Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000004" lat="55.0710000" lon="14.7700000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+
+
+  <node id="0000000005" lat="55.0720000" lon="14.7730000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000006" lat="55.0725000" lon="14.7720000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000007" lat="55.0730000" lon="14.7720000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000008" lat="55.0735000" lon="14.7730000" version="1" timestamp="2012-01-20T16:03:34Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000009" lat="55.0735000" lon="14.7740000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000010" lat="55.0730000" lon="14.7740000" version="1" timestamp="2012-01-20T16:03:34Z" changeset="10447446" uid="210278" user="mantson"/>
+
+
+  <node id="0000000011" lat="55.0750000" lon="14.7760000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000012" lat="55.0755000" lon="14.7750000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000013" lat="55.0760000" lon="14.7750000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000014" lat="55.0765000" lon="14.7760000" version="1" timestamp="2012-01-20T16:03:34Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000015" lat="55.0765000" lon="14.7770000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000016" lat="55.0760000" lon="14.7770000" version="1" timestamp="2012-01-20T16:03:34Z" changeset="10447446" uid="210278" user="mantson"/>
+
+  <node id="0000000017" lat="55.0755200" lon="14.7760000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000018" lat="55.0755200" lon="14.7762000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000019" lat="55.0760000" lon="14.7763000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+
+
+  <node id="0000000020" lat="55.0770000" lon="14.7760000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000021" lat="55.0775000" lon="14.7750000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000022" lat="55.0780000" lon="14.7750000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000023" lat="55.0785000" lon="14.7760000" version="1" timestamp="2012-01-20T16:03:34Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000024" lat="55.0785000" lon="14.7770000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000025" lat="55.0780000" lon="14.7770000" version="1" timestamp="2012-01-20T16:03:34Z" changeset="10447446" uid="210278" user="mantson"/>
+
+  <node id="0000000026" lat="55.0775200" lon="14.7760000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000027" lat="55.0775200" lon="14.7762000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000028" lat="55.0780000" lon="14.7763000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+
+  <node id="0000000029" lat="55.0775100" lon="14.775000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000030" lat="55.0776000" lon="14.7756000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000031" lat="55.0779900" lon="14.7759000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+
+
+
+  <node id="0000000032" lat="55.0970000" lon="14.7760000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000033" lat="55.0975000" lon="14.7750000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000034" lat="55.0980000" lon="14.7750000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000035" lat="55.0985000" lon="14.7760000" version="1" timestamp="2012-01-20T16:03:34Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000036" lat="55.0985000" lon="14.7770000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000037" lat="55.0980000" lon="14.7770000" version="1" timestamp="2012-01-20T16:03:34Z" changeset="10447446" uid="210278" user="mantson"/>
+
+  <node id="0000000038" lat="55.0975200" lon="14.7760000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000039" lat="55.0975200" lon="14.7762000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000040" lat="55.0980000" lon="14.7763000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+
+  <node id="0000000041" lat="55.0975100" lon="14.775000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000042" lat="55.0976000" lon="14.7756000" version="1" timestamp="2012-01-20T16:03:32Z" changeset="10447446" uid="210278" user="mantson"/>
+  <node id="0000000043" lat="55.0979900" lon="14.7759000" version="1" timestamp="2012-01-20T16:03:33Z" changeset="10447446" uid="210278" user="mantson"/>
+
+
+  <way id="100000001" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+    <nd ref="0000000001"/>
+    <nd ref="0000000002"/>
+    <nd ref="0000000003"/>
+    <nd ref="0000000004"/>
+    <nd ref="0000000001"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="100000002" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+      <nd ref="0000000005"/>
+      <nd ref="0000000006"/>
+      <nd ref="0000000007"/>
+      <nd ref="0000000008"/>
+  </way>
+  <way id="100000003" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+      <nd ref="0000000008"/>
+      <nd ref="0000000009"/>
+      <nd ref="0000000010"/>
+      <nd ref="0000000005"/>
+  </way>
+  <way id="100000004" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+        <nd ref="0000000011"/>
+        <nd ref="0000000012"/>
+        <nd ref="0000000013"/>
+        <nd ref="0000000014"/>
+  </way>
+  <way id="100000005" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+          <nd ref="0000000014"/>
+          <nd ref="0000000015"/>
+          <nd ref="0000000016"/>
+          <nd ref="0000000011"/>
+  </way>
+  <way id="100000006" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+            <nd ref="0000000017"/>
+            <nd ref="0000000018"/>
+            <nd ref="0000000019"/>
+            <nd ref="0000000017"/>
+  </way>
+
+  <way id="100000007" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+      <nd ref="0000000020"/>
+      <nd ref="0000000021"/>
+      <nd ref="0000000022"/>
+      <nd ref="0000000023"/>
+  </way>
+  <way id="100000008" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+        <nd ref="0000000023"/>
+        <nd ref="0000000024"/>
+        <nd ref="0000000025"/>
+        <nd ref="0000000020"/>
+  </way>
+  <way id="100000009" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+              <nd ref="0000000026"/>
+              <nd ref="0000000027"/>
+              <nd ref="0000000028"/>
+              <nd ref="0000000026"/>
+  </way>
+  <way id="100000010" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+                <nd ref="0000000029"/>
+                <nd ref="0000000030"/>
+                <nd ref="0000000031"/>
+                <nd ref="0000000029"/>
+  </way>
+
+  <way id="100000011" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+      <nd ref="0000000032"/>
+      <nd ref="0000000033"/>
+      <nd ref="0000000034"/>
+      <nd ref="0000000035"/>
+  </way>
+  <way id="100000012" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+        <nd ref="0000000035"/>
+        <nd ref="0000000036"/>
+        <nd ref="0000000037"/>
+        <nd ref="0000000032"/>
+  </way>
+  <way id="100000013" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+              <nd ref="0000000038"/>
+              <nd ref="0000000039"/>
+              <nd ref="0000000040"/>
+              <nd ref="0000000041"/>
+  </way>
+  <way id="100000014" version="1" timestamp="2012-01-20T16:04:08Z" changeset="10447446" uid="210278" user="mantson">
+                <nd ref="0000000041"/>
+                <nd ref="0000000042"/>
+                <nd ref="0000000043"/>
+                <nd ref="0000000038"/>
+  </way>
+
+  <relation id="9900001" version="6" timestamp="2019-09-27T13:15:18Z" changeset="75009650" uid="379467" user="osmviborg">
+    <member type="way" ref="100000003" role="outer"/>
+    <member type="way" ref="100000002" role="outer"/>
+    <tag k="landuse" v="forest"/>
+  </relation>
+
+  <relation id="9900002" version="6" timestamp="2019-09-27T13:15:18Z" changeset="75009650" uid="379467" user="osmviborg">
+      <member type="way" ref="100000004" role="outer"/>
+      <member type="way" ref="100000005" role="outer"/>
+      <member type="way" ref="100000006" role="inner"/>
+      <tag k="landuse" v="forest"/>
+  </relation>
+
+  <relation id="9900003" version="6" timestamp="2019-09-27T13:15:18Z" changeset="75009650" uid="379467" user="osmviborg">
+        <member type="way" ref="100000007" role="outer"/>
+        <member type="way" ref="100000008" role="outer"/>
+        <member type="way" ref="100000009" role="inner"/>
+        <member type="way" ref="100000010" role="inner"/>
+        <tag k="landuse" v="forest"/>
+    </relation>
+
+  <relation id="9900004" version="6" timestamp="2019-09-27T13:15:18Z" changeset="75009650" uid="379467" user="osmviborg">
+          <member type="way" ref="100000011" role="outer"/>
+          <member type="way" ref="100000012" role="outer"/>
+          <member type="way" ref="100000013" role="inner"/>
+          <member type="way" ref="100000014" role="inner"/>
+          <tag k="landuse" v="forest"/>
+      </relation>
+</osm>
+
+  
